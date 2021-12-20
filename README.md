@@ -1,6 +1,6 @@
 # momcon
 
-Conversion routines between fault plane representations
+Conversion routines between fault plane representations (Ray Buland)
 
 
 ```
